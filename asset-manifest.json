@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Infinews/static/css/main.e685cf3b.css",
+    "main.js": "/Infinews/static/js/main.1ead25ed.js",
+    "static/js/453.96d1879a.chunk.js": "/Infinews/static/js/453.96d1879a.chunk.js",
+    "static/media/load3.gif": "/Infinews/static/media/load3.46f0636474b7b88dfa43.gif",
+    "index.html": "/Infinews/index.html",
+    "main.e685cf3b.css.map": "/Infinews/static/css/main.e685cf3b.css.map",
+    "main.1ead25ed.js.map": "/Infinews/static/js/main.1ead25ed.js.map",
+    "453.96d1879a.chunk.js.map": "/Infinews/static/js/453.96d1879a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e685cf3b.css",
+    "static/js/main.1ead25ed.js"
+  ]
+}
